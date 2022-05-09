@@ -1,0 +1,69 @@
+h1{
+    font-size: 20px;
+    font-family: "Arial", sans-serif;
+
+}
+h2{
+    font-size: 20px;
+    font-family: "Arial", sans-serif;
+    color: red;
+}
+h11{
+    font-size: 16px;
+    font-family: Arial,sans-serif;
+    position: absolute;
+    right: 20px;
+}
+h10{
+    font-size: 18px;
+    font-family: Arial,sans-serif;
+    position: fixed;
+    right: 1100px;
+}
+input[type=text] {
+    width: 10%;
+    padding: 12px 35px;
+    margin: 10px 40px;
+    background-color: lightblue;
+}
+input[type=text1] {
+    width: 10%;
+    padding: 12px 35px;
+    margin: 1px 40px;
+    background-color: lightblue;
+}
+input[type=text2] {
+    width: 40%;
+    height: 100px;
+    padding: 12px 35px;
+    margin: 100px 40px;
+    background-color: lightblue;
+}
+label11 {
+    width:180px;
+    clear:left;
+    text-align:right;
+    padding-right:200px;
+}
+label1 {
+    width:180px;
+    clear:left;
+    text-align:right;
+    padding-right:13px;
+}
+label2 {
+    width:180px;
+    clear:left;
+    text-align:right;
+    padding-right:205px;
+}
+label3 {
+    width:180px;
+    clear:left;
+    text-align:right;
+    padding-right:150px;
+}
+
+
+
+
